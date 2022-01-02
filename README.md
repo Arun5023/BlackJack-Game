@@ -3,3 +3,6 @@ Blackjack is the American variant of a globally popular banking game known as Tw
 
 Rules of play:
 The players' object is to win by creating card totals that turn out to be higher than the dealer's hand but do not exceed 21, or alternatively by allowing the dealer to take additional cards until he/she busts. On their turn, players must choose whether to "HIT" (take a card), "stand" (end their turn) After all boxes have finished playing, the dealer's hand is resolved by drawing cards until the hand busts or achieves a value of 16 or higher in my game.
+
+# Some Result Images:
+![1](https://user-images.githubusercontent.com/96112046/147885547-d731750c-c123-474e-ae7b-cdd4d247f453.png)
