@@ -1,0 +1,76 @@
+.btn{
+    padding: 6px 12px;
+    border: 2px solid black; 
+    font-size: 20px;
+    margin: 3px; 
+    border-radius: 7px;
+    cursor: pointer;
+}
+.btn:hover{
+     border: 2px solid white;
+}
+.btn-blue{
+    background-color: blue;
+    color: white;
+}
+.btn-red{
+    background-color: red;
+    color: white;
+}
+.btn-yellow{
+    background-color: gold; 
+}
+.btn-green {
+    background-color: green;
+    text-decoration: none;
+    color: white;
+}
+.container{
+    text-align: center;
+    margin: 0px auto;
+    width: 100%;
+    
+}
+.flex-blackjack-row1, .flex-blackjack-row2{
+    display: flex;
+    /* border: 1px solid white; */
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 5px;
+}
+.flex-blackjack-row1, .flex-blackjack-row2{
+    background:  url('bg-images/bg.png') center;
+    color: white;
+}
+.flex-blackjack-row3
+{
+    background:  linear-gradient(rgba(1, 83, 26, 0.4),rgba(1, 83, 26, 0.4)), url('bg-images/bg2.png');
+    background-repeat: no-repeat;
+    display: flex;
+    /* border: 1px solid white; */
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 5px;
+}
+.flex-blackjack-row1 div{
+    border: 2px solid white;
+    flex: 1;
+    padding: 10px;
+    height: 350px;
+    text-align: center;
+   
+}
+.flex-blackjack-row2 div{
+    padding: 10px;
+}
+table,th,td{
+   padding: 4px; 
+   border-collapse: collapse;
+    border: 1px solid white;
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.flex-blackjack-row1 img{
+    padding:  2px 3px
+}
