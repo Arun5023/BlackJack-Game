@@ -20,11 +20,11 @@
 .btn-yellow{
     background-color: gold; 
 }
-.btn-green {
+/* .btn-green {
     background-color: green;
     text-decoration: none;
     color: white;
-}
+} */
 .container{
     text-align: center;
     margin: 0px auto;
